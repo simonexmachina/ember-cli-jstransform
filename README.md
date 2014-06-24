@@ -29,7 +29,7 @@ var app = new EmberApp({
 
   es6-arrow-function  
   es6-class  
-  es6-object-concise-method
+  es6-object-concise-method  
   es6-object-short-notation  
   es6-rest-param  
   es6-template
