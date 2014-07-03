@@ -29,10 +29,12 @@ var app = new EmberApp({
 
   es6-arrow-function  
   es6-class  
+  es6-destructuring  
   es6-object-concise-method  
   es6-object-short-notation  
   es6-rest-param  
-  es6-template
+  es6-template  
+  es7-spread-property  
 * `.visitors`: An array of custom tranforms. If `.transforms` is specified 
   then this option is ignored.
 * `.ignoredFiles`: An array of file paths to ignore. These are included
