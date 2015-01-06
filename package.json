@@ -13,7 +13,7 @@
   "author": "@aexmachina",
   "license": "MIT",
   "dependencies": {
-    "broccoli-jstransform": "^2.0.0"
+    "broccoli-jstransform": "^3.0.0"
   },
   "repository": {
     "type": "git",
